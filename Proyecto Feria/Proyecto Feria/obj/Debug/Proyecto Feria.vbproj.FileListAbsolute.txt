@@ -1,0 +1,13 @@
+C:\Users\eltio\Desktop\Vscode2012\Proyecto Feria\Proyecto Feria\bin\Debug\Proyecto Feria.exe.config
+C:\Users\eltio\Desktop\Vscode2012\Proyecto Feria\Proyecto Feria\bin\Debug\Database1.mdb
+C:\Users\eltio\Desktop\Vscode2012\Proyecto Feria\Proyecto Feria\bin\Debug\Proyecto Feria.exe
+C:\Users\eltio\Desktop\Vscode2012\Proyecto Feria\Proyecto Feria\bin\Debug\Proyecto Feria.pdb
+C:\Users\eltio\Desktop\Vscode2012\Proyecto Feria\Proyecto Feria\bin\Debug\Proyecto Feria.xml
+C:\Users\eltio\Desktop\Vscode2012\Proyecto Feria\Proyecto Feria\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\eltio\Desktop\Vscode2012\Proyecto Feria\Proyecto Feria\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\eltio\Desktop\Vscode2012\Proyecto Feria\Proyecto Feria\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\eltio\Desktop\Vscode2012\Proyecto Feria\Proyecto Feria\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\eltio\Desktop\Vscode2012\Proyecto Feria\Proyecto Feria\obj\Debug\Proyecto Feria.vbproj.GenerateResource.Cache
+C:\Users\eltio\Desktop\Vscode2012\Proyecto Feria\Proyecto Feria\obj\Debug\Proyecto Feria.exe
+C:\Users\eltio\Desktop\Vscode2012\Proyecto Feria\Proyecto Feria\obj\Debug\Proyecto Feria.xml
+C:\Users\eltio\Desktop\Vscode2012\Proyecto Feria\Proyecto Feria\obj\Debug\Proyecto Feria.pdb
